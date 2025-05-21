@@ -1,2 +1,8 @@
-# Unity_Tower_Of_Unreal_World
-Uma nova tentativa de melhorar o antigo projeto, sprites e visuais.
+# Unity_The_Game
+One of my first created games
+
+
+📌 Licença
+
+Este projeto está sob a licença **Todos os direitos reservados**.  
+Nenhum conteúdo pode ser reutilizado ou redistribuído sem autorização.
